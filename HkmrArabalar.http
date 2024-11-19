@@ -1,0 +1,6 @@
+@HkmrArabalar_HostAddress = http://localhost:5020
+
+GET {{HkmrArabalar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
